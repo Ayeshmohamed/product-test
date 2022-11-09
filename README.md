@@ -18,6 +18,9 @@ After that run the following commends
  php artisan storge:link
  ```
 
+## Login Credentials
+Email : admin@admin.com
+Password : 123456789
 
 ## Contributing
 
